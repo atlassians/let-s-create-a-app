@@ -10,9 +10,5 @@
   "license": "MIT",
   "dependencies": {
     "@slack/bolt": "5.0.0-rc.1"
-  },
-  "engines": {
-    "node": ">=20",
-    "npm": ">=9.6.4"
   }
 }
